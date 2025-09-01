@@ -12,5 +12,5 @@ Test case 2
    - First Nested List Them
      - Second Nested List Them
 -[x] #739
-- [] https://github.com
-- [] Task Complete :tada:
+- [ ] https://github.com
+- [ ] Task Complete :tada:
